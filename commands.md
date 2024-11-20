@@ -54,5 +54,5 @@ Uploads an image to the configured registry.
 Run a command in a running container.
 
 ### docker network
-
+thanks to veeramalla
 Manage Docker networks such as creating and removing networks, and connecting containers to networks.
